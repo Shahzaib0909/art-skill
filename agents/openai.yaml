@@ -1,0 +1,4 @@
+interface:
+  display_name: "Art Skill"
+  short_description: "Original artwork with precise copy and visual review"
+  default_prompt: "Use $art-skill to turn my brief into original, finished visual artwork."
