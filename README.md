@@ -16,7 +16,7 @@ Art Skill turns a brief into a visual concept, selects suitable available tools,
 
 ## Install
 
-Copy the complete `art-skill` folder into your agent's skills directory. For a local Codex installation, place it at `~/.codex/skills/art-skill`. Keep `SKILL.md`, `agents/`, and `references/` together. The repository root is also the skill folder, so a downloaded repository may be renamed to `art-skill` before installation.
+Follow the [step-by-step installation guide](INSTALL.md) for ChatGPT, Claude, Gemini Apps, Claude Code, Gemini CLI, and Codex. It includes downloading the package, preparing the ZIP, activating the skill, and checking the installation.
 
 ## Use
 
