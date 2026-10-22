@@ -51,7 +51,3 @@ The skill supplies instructions, not an image-generation service. Finished artwo
 ## Validation and limits
 
 Initial version, 22 October 2026. Skill structure and internal reference links were checked. The workflow was desk-reviewed against repair, thumbnail, Urdu carousel, offline, vector, missing-tool, memory, and repeated-render-failure scenarios. These were not executed image-generation benchmarks. Visual quality, platform results, and audience performance are not guaranteed.
-
-## Background
-
-Created after reviewing [BeyondArtist](https://github.com/beyondtahir/beyondartist). Art Skill uses freshly written instructions and its own organization. It does not include BeyondArtist's reference corpus, scripts, branding, artwork, or identity assets and does not claim equivalent library coverage or affiliation.
